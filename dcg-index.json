@@ -16,7 +16,7 @@
                         "name": "Avocado"
                     },
                 "vpmDependencies": {
-                    "com.avocado.avoutils": "1.0.0",
+                    "com.avocado.avoutilities": "1.0.0",
                     "com.dcgstudios.deckbuilder": "1.0.0"
                 },
                 "zipSHA256": "79b5b965f1be77e4a717924ac56bc7685b6b110428a73182c064ceac506acf0f",
