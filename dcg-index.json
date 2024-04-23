@@ -1,7 +1,7 @@
 {
     "name": "DCG Package Listing",
     "id": "com.dcgstudios.dcg-package-listing",
-    "url": "https://dcg-studios.github.io/DCG-Listing/dcg-index.json",
+    "url": "https://raw.githubusercontent.com/AvocadoVR/AvoListing/master/index.json",
     "author": "Avocado",
     "packages": {
         "com.dcgstudios.dcg" : {
@@ -19,8 +19,8 @@
                     "com.avocado.avoutils": "1.0.0",
                     "com.dcgstudios.deckbuilder": "1.0.0"
                 },
-                "zipSHA256": "",
-                "url": ""
+                "zipSHA256": "79b5b965f1be77e4a717924ac56bc7685b6b110428a73182c064ceac506acf0f",
+                "url": "https://github.com/DCG-Studios/DCG-1v1/releases/download/1.0.0/com.dcgstudios.dcg-1.0.0.zip"
                 }
             }
         },
