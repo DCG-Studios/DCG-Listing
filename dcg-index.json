@@ -1,0 +1,47 @@
+{
+    "name": "DCG Package Listing",
+    "id": "com.dcgstudios.dcg-package-listing",
+    "url": "https://raw.githubusercontent.com/AvocadoVR/AvoListing/master/index.json",
+    "author": "Avocado",
+    "packages": {
+        "com.dcgstudios.dcg" : {
+            "versions":  {
+                "1.0.0": {
+                    "name": "com.dcgstudios.dcg",
+                    "displayName": "DCG - 1v1",
+                    "version": "1.0.0",
+                    "unity": "2022.3",
+                    "description": "",
+                    "author" : {
+                        "name": "Avocado"
+                    },
+                "vpmDependencies": {
+                    "com.avocado.avoutils": "1.0.0",
+                    "com.dcgstudios.deckbuilder": "1.0.0"
+                },
+                "zipSHA256": "",
+                "url": ""
+                }
+            }
+        },
+        "com.dcgstudios.deckbuilder" : {
+            "versions":  {
+                "1.0.0": {
+                    "name": "com.dcgstudios.deckbuilder",
+                    "displayName": "DCG Deck Builder",
+                    "version": "1.0.0",
+                    "unity": "2022.3",
+                    "description": "",
+                    "author" : {
+                        "name": "Avocado"
+                    },
+                    "vpmDependencies": {
+                        "com.dcgstudios.dcg": "1.0.0"
+                    },
+                "zipSHA256": "f23d45558a9d081f3a3b41c60bac5d4e13256889ae74ccb7c753ce5c25ff8661",
+                "url": "https://github.com/DCG-Studios/Deck-Builder/releases/download/1.0.0/com.dcgstudios.deckbuilder-1.0.0.zip"
+                }
+            }
+        }
+    }
+}
