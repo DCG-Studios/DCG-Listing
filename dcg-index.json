@@ -1,7 +1,7 @@
 {
     "name": "DCG Package Listing",
     "id": "com.dcgstudios.dcg-package-listing",
-    "url": "https://raw.githubusercontent.com/AvocadoVR/AvoListing/master/index.json",
+    "url": "https://dcg-studios.github.io/DCG-Listing/dcg-index.json",
     "author": "Avocado",
     "packages": {
         "com.dcgstudios.dcg" : {
