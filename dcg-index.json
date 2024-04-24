@@ -75,6 +75,30 @@
           "url": "https://api.github.com/repos/DCG-Studios/DCG-Deck-Builder/releases/assets/163854802"
         }
       }
+    },
+    "com.dcgstudios.dcg-pms": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.dcgstudios.dcg-pms",
+          "displayName": "DCG - PMS",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "",
+          "author": {
+            "name": "Avocado"
+          },
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.5.3-beta.2",
+            "com.avocado.avoutilities": "1.0.0"
+          },
+          "headers": {
+            "Accept": "application/octet-stream"
+          },
+          "zipSHA256": "9dd57bed7eb5801a733a802b1afb058c736cd716bf9fbcd520d125cf675bc860",
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-PMS/releases/assets/163957865"
+        }
+      }
     }
   }
 }
