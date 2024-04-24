@@ -6,10 +6,10 @@
   "packages": {
     "com.dcgstudios.dcgcore": {
       "versions": {
-        "1.1.0": {
+        "1.1.1": {
           "name": "com.dcgstudios.dcgcore",
           "displayName": "DCGCore",
-          "version": "1.1.0",
+          "version": "1.1.1",
           "unity": "2019.4",
           "unityRelease": "29f1",
           "description": "",
@@ -23,17 +23,17 @@
           "headers": {
             "Accept": "application/octet-stream"
           },
-          "zipSHA256": "ba4e8b1d706ff1fd015b8656e6ec00b2fa584b145a26083205fb77929418843d",
-          "url": "https://api.github.com/repos/DCG-Studios/DCGCore/releases/assets/164010133"
+          "zipSHA256": "6e30e1259bbec985325dc3b73ffd74990e26a19cef2abc34ed5788ea4544b2ec",
+          "url": "https://api.github.com/repos/DCG-Studios/DCGCore/releases/assets/164014852"
         }
       }
     },
     "com.dcgstudios.dcg": {
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "name": "com.dcgstudios.dcg",
           "displayName": "DCG - 1v1",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2019.4",
           "unityRelease": "29f1",
           "description": "",
@@ -42,23 +42,23 @@
           },
           "vpmDependencies": {
             "com.vrchat.worlds": "3.5.3-beta.2",
-            "com.dcgstudios.dcgcore": "1.1.0",
-            "com.dcgstudios.dcg-pms": "1.0.0"
+            "com.dcgstudios.dcgcore": "1.1.1",
+            "com.dcgstudios.dcg-pms": "1.0.1"
           },
           "headers": {
             "Accept": "application/octet-stream"
           },
-          "zipSHA256": "579216ad71adf2028c053ec65a0343db5646bf4ac7270faba89519b4084459df",
-          "url": "https://api.github.com/repos/DCG-Studios/DCG-1v1/releases/assets/163855137"
+          "zipSHA256": "655bdf9ce168597aa9c494d841f497fdbaf8322b0bb307aad138e56cc1804d1f",
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-1v1/releases/assets/164014846"
         }
       }
     },
     "com.dcgstudios.deckbuilder": {
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "name": "com.dcgstudios.deckbuilder",
           "displayName": "DCG Deck Builder",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2019.4",
           "unityRelease": "29f1",
           "description": "",
@@ -67,23 +67,23 @@
           },
           "vpmDependencies": {
             "com.vrchat.worlds": "3.5.3-beta.2",
-            "com.dcgstudios.dcgcore": "1.1.0",
-            "com.dcgstudios.dcg-pms": "1.0.0"
+            "com.dcgstudios.dcgcore": "1.1.1",
+            "com.dcgstudios.dcg-pms": "1.0.1"
           },
           "headers": {
             "Accept": "application/octet-stream"
           },
-          "zipSHA256": "2c289e3bd465ba674e733752a93e8f5d85311d951135d2710b88c4882bc155a0",
-          "url": "https://api.github.com/repos/DCG-Studios/DCG-Deck-Builder/releases/assets/163854802"
+          "zipSHA256": "7a03cc4cc01cecb4f709e4ad1468f0389e03ac1f4435ee9b616f9bb3cb5f4d04",
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-Deck-Builder/releases/assets/164014882"
         }
       }
     },
     "com.dcgstudios.dcg-pms": {
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "name": "com.dcgstudios.dcg-pms",
           "displayName": "DCG - PMS",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2019.4",
           "unityRelease": "29f1",
           "description": "",
@@ -97,8 +97,8 @@
           "headers": {
             "Accept": "application/octet-stream"
           },
-          "zipSHA256": "9dd57bed7eb5801a733a802b1afb058c736cd716bf9fbcd520d125cf675bc860",
-          "url": "https://api.github.com/repos/DCG-Studios/DCG-PMS/releases/assets/163957865"
+          "zipSHA256": "3619ee228c42c25d271002ee586dc93acabf717fe31b97f57890c9036ea429c1",
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-PMS/releases/assets/164014866"
         }
       }
     }
