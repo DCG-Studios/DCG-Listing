@@ -20,8 +20,11 @@
             "com.vrchat.worlds": "3.5.3-beta.2",
             "com.avocado.avoutilities": "1.0.0"
           },
+          "headers": {
+            "Accept": "application/octet-stream"
+          },
           "zipSHA256": "4aebccf4a294f8bc4dc6422af4708b6305c0c2e7d71b5e88232e2cb920ca91ac",
-          "url": "https://github.com/DCG-Studios/DCGCore/releases/download/1.0.0/com.dcgstudios.dcgcore-1.0.0.zip"
+          "url": "https://api.github.com/repos/DCG-Studios/DCGCore/releases/assets/163854422"
         }
       }
     },
@@ -41,8 +44,11 @@
             "com.vrchat.worlds": "3.5.3-beta.2",
             "com.dcgstudios.dcgcore": "1.0.0"
           },
+          "headers": {
+            "Accept": "application/octet-stream"
+          },
           "zipSHA256": "579216ad71adf2028c053ec65a0343db5646bf4ac7270faba89519b4084459df",
-          "url": "https://github.com/DCG-Studios/DCG-1v1/releases/download/1.0.0/com.dcgstudios.dcg-1.0.0.zip"
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-1v1/releases/assets/163855137"
         }
       }
     },
@@ -62,8 +68,11 @@
             "com.vrchat.worlds": "3.5.3-beta.2",
             "com.dcgstudios.dcgcore": "1.0.0"
           },
+          "headers": {
+            "Accept": "application/octet-stream"
+          },
           "zipSHA256": "2c289e3bd465ba674e733752a93e8f5d85311d951135d2710b88c4882bc155a0",
-          "url": "https://github.com/DCG-Studios/DCG-Deck-Builder/releases/download/1.0.0/com.dcgstudios.deckbuilder-1.0.0.zip"
+          "url": "https://api.github.com/repos/DCG-Studios/DCG-Deck-Builder/releases/assets/163854802"
         }
       }
     }
