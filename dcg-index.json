@@ -6,6 +6,26 @@
   "packages": {
     "com.dcgstudios.dcgcore": {
       "versions": {
+        "1.1.2": {
+          "name": "com.dcgstudios.dcgcore",
+          "displayName": "DCGCore",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "",
+          "author": {
+            "name": "Avocado"
+          },
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.5.3-beta.2",
+            "com.avocado.avoutilities": "1.0.0"
+          },
+          "headers": {
+            "Accept": "application/octet-stream"
+          },
+          "zipSHA256": "25c22e7e39f6dc2b780835c79a596480cc49ce131707d9fecb6e4f2879e45a6b",
+          "url": "https://api.github.com/repos/DCG-Studios/DCGCore/releases/assets/164199637"
+        },
         "1.1.1": {
           "name": "com.dcgstudios.dcgcore",
           "displayName": "DCGCore",
@@ -42,7 +62,7 @@
           },
           "vpmDependencies": {
             "com.vrchat.worlds": "3.5.3-beta.2",
-            "com.dcgstudios.dcgcore": "1.1.1",
+            "com.dcgstudios.dcgcore": "1.1.2",
             "com.dcgstudios.dcg-pms": "1.0.1"
           },
           "headers": {
@@ -67,7 +87,7 @@
           },
           "vpmDependencies": {
             "com.vrchat.worlds": "3.5.3-beta.2",
-            "com.dcgstudios.dcgcore": "1.1.1",
+            "com.dcgstudios.dcgcore": "1.1.2",
             "com.dcgstudios.dcg-pms": "1.0.1"
           },
           "headers": {
